@@ -11,7 +11,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
     <img src="https://img.shields.io/github/watchers/asraf7380373/FallenMusic?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/asraf7380373/FallenMusic?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/commit-activity/w/asraf7380373/FallenMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/asraf7380373"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/asraf7380373"> <img src="https://img.shields.io/github/last-commit/asraf7380373/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <img src="https://img.shields.io/github/contributors/asraf7380373/FallenMusic?style=for-the-badge" alt="Contributors">
     <a href="https://github.com/asraf7380373/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/asraf7380373/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/asraf7380373/FallenMusic"> <img src="https://img.shields.io/github/repo-size/asraf7380373/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -59,7 +59,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/asraf7380373/"FallenMusic> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
